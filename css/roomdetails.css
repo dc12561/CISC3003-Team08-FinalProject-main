@@ -1,0 +1,255 @@
+body {
+    background-color: #ded4d4;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.head {
+    display: flex;
+    width: 100%;
+    height: 98px;
+    line-height: 20px;
+    opacity: 0.9;
+    background-color: rgba(217, 179, 163, 86);
+    text-align: center;
+    border: 1px solid rgba(187, 187, 187, 100);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo_box {
+    margin-top: 5px;
+    width: 148px;
+    height: 56px;
+    margin-left: 87px;
+    color: rgba(255, 255, 255, 100);
+    font-size: 36px;
+    text-align: left;
+    font-weight: bold;
+    font-family: SourceHanSansSC-bold;
+}
+
+.nav_box {
+    margin-left: 420px;
+    margin-top: 43px;
+    display: inline-block;
+    min-height:80px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.home_page {
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.rent_house {
+    color: #715C5C;
+    font-size: 21px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+.houser {
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+.service {
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+
+
+.search_box {
+    
+    position: absolute; 
+    z-index: 999;
+    text-align: center;
+    margin-left: 295px;
+    margin-top: -58px;
+    
+}
+
+.search {
+    height: 20px;
+    width: 200px;
+    border-radius: 40px;
+    border: 1px solid rgba(255, 255, 255, 100);
+}
+
+.introduce_box {
+    margin-top: -490px;
+    margin-left: 780px;
+    
+}
+
+.big_title {
+    text-align: left;
+    display: block;
+}
+
+.house_title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #4F4545;
+}
+
+.price {
+    font-size: 25px;
+    font-weight: bold;
+    color: #AC3232;
+    margin-top: -12px;
+}
+
+.small_title {
+    margin-top: 30px;
+    display: flex;
+
+}
+
+.type_box {
+    width: 100px;
+    padding-right: 70px;
+}
+
+.type1 {
+    font-size: 22px;
+    color: #841515;
+    font-weight: bolder;
+}
+
+.type2 {
+    font-size: 17px;
+    color: #A29F9F;
+}
+
+.unit_box {
+    width: 200px;
+    padding-right: 70px;
+}
+
+.unit1 {
+    font-size: 22px;
+    color: #841515;
+    font-weight: bolder;
+}
+
+.unit2 {
+    font-size: 17px;
+    color: #A29F9F;
+}
+
+.area_box {
+    width: 50px;
+    padding-right: 120px;
+}
+
+.area1 {
+    font-size: 22px;
+    color: #841515;
+    font-weight: bolder;
+}
+
+.area2 {
+    font-size: 17px;
+    color: #A29F9F;
+}
+
+.position_box {
+    margin-top: 30px;
+    display: flex;
+    
+}
+
+.position_title {
+    font-size: 22px;
+    font-weight: bold;
+    color: gray;
+    width: 70px;
+}
+
+.position {
+    font-size: 20px;
+    color: #841515;
+    padding-left: 50px;
+    width: 250px;
+}
+
+.style_box {
+    margin-top: 30px;
+    display: flex;
+    
+}
+
+.style_title {
+    font-size: 20px;
+    font-weight: bold;
+    color: gray;
+    width: 90px;
+}
+
+.style {
+    font-size: 20px;
+    color: #841515;
+    padding-left: 31px;
+    width: 110px;
+}
+
+.contact_box {
+    width: 320px;
+    height: 150px;
+    margin-top: 30px;
+    background-color: white;
+    display: flex;
+    border-radius: 10px;
+}
+
+.houser_id {
+    margin-top: 42px;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: bolder;
+    color: black;
+    width: 100px;
+}
+
+.contact_button {
+    margin-top: 100px;
+    margin-left: -160px;
+}
+
+.detail_box {
+    display: block;
+    margin-top: -130px;
+    margin-left: 70px;
+    width: 625px;
+}
+
+.detail_title {
+    font-size: 20px;
+    color: #4F4545;
+    font-weight: bold;
+}
+
+.detail {
+    font-size: 17px;
+    color: #4F4545;
+    margin-top: -10px;
+}

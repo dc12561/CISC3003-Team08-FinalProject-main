@@ -1,0 +1,236 @@
+body {
+    background-color: #ded4d4;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.head {
+    display: flex;
+    width: 100%;
+    height: 98px;
+    line-height: 20px;
+    opacity: 0.9;
+    background-color: rgba(217, 179, 163, 86);
+    text-align: center;
+    border: 1px solid rgba(187, 187, 187, 100);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo_box {
+    margin-top: 5px;
+    width: 148px;
+    height: 56px;
+    margin-left: 87px;
+    color: rgba(255, 255, 255, 100);
+    font-size: 36px;
+    text-align: left;
+    font-weight: bold;
+    font-family: SourceHanSansSC-bold;
+}
+
+.nav_box {
+    margin-left: 420px;
+    margin-top: 43px;
+    display: inline-block;
+    min-height:80px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.home_page {
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+.rent_house {
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+.houser {
+    color: #715C5C;
+    font-size: 21px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+.service {
+    color: white;
+    font-size: 21px;
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+/*img {
+    border-radius: 50%;
+    margin-top: 25px;
+    margin-left: 122px;
+}*/
+
+.search_box {
+    
+    position: absolute; 
+    z-index: 999;
+    text-align: center;
+    margin-left: 295px;
+    margin-top: -58px;
+    
+}
+
+.search {
+    height: 20px;
+    width: 200px;
+    border-radius: 40px;
+    border: 1px solid rgba(255, 255, 255, 100);
+}
+
+.release {
+    width: 760px;
+    height: 52px;
+    background-color: #bbb1b1;
+    margin-left: 270px;
+    margin-top: 40px;
+}
+
+.release_text {
+    color: #4D2222;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 15px;
+}
+
+.release_box {
+    width: 760px;
+    height: 960px;
+    background-color: white;
+    margin-left: 270px;
+    margin-bottom: 30px;
+}
+
+.title_box {
+    display: flex;
+    margin-left: 60px;
+    padding-top: 30px;
+}
+
+.title_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.address_box {
+    display: flex;
+    margin-left: 60px;
+    padding-top: 20px;
+}
+
+.address_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.region_box {
+    display: flex;
+    margin-left: 60px;
+    padding-top: 20px;
+}
+
+.region_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.type_box {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.type_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.unit_box {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.unit_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.area_box {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.area_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.style_box {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.style_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.detail_box {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.detail_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.price_box {
+    display: flex;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.price_text {
+    font-size: 18px;
+    font-weight: bolder;
+    color: black;
+}
+
+.release_submit {
+    margin-left: 185px;
+    margin-top: 60px;
+}

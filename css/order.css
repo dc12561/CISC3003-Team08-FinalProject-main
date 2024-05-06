@@ -1,0 +1,156 @@
+body {
+    background-color: #ded4d4;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.head {
+    display: flex;
+    width: 100%;
+    height: 98px;
+    line-height: 20px;
+    opacity: 0.9;
+    background-color: rgba(217, 179, 163, 86);
+    text-align: center;
+    border: 1px solid rgba(187, 187, 187, 100);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+.logo_box {
+    margin-top: 5px;
+    width: 148px;
+    height: 56px;
+    margin-left: 87px;
+    color: rgba(255, 255, 255, 100);
+    font-size: 36px;
+    text-align: left;
+    font-weight: bold;
+    font-family: SourceHanSansSC-bold;
+}
+
+.nav_box {
+    margin-left: 170px;
+    margin-top: 43px;
+    display: inline-block;
+    min-height:80px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.message_title {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.oder_title {
+    color: #715C5C;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 150px;
+}
+
+.vip_title {
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 150px;
+}
+
+.mem_box {
+    background-color: white;
+    height: 190px;
+    width: 150px;
+    display: block;
+    border-radius: 10px;
+    margin-top: 160px;
+    margin-left: 100px;
+    position: fixed;
+    text-align: center;
+}
+
+.username {
+    font-size: 17px;
+    color: #4D2222;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 2px solid gray;
+}
+
+.mem_text {
+    display: block;
+    font-size: 15px;
+    font-weight: bolder;
+    color: #a55b5b;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.switch_account {
+    margin-right: 35px;
+    margin-left: 37px;
+    text-align: center;
+}
+
+.myoder {
+    width: 760px;
+    height: 52px;
+    background-color: #bbb1b1;
+    margin-left: 330px;
+    margin-top: 40px;
+}
+
+.oder_text {
+    color: #4D2222;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    padding-top: 15px;
+}
+
+.oder_box {
+    width: 760px;
+    height: 500px;
+    background-color: white;
+    margin-left: 330px;
+    /*margin-top: -20px;*/
+}
+
+.title {
+    padding-top: 30px;
+    margin-left: 20px;
+    display: block;
+    font-weight: bold;
+    font-size: 16px;
+    width: 80px;
+    text-align: center;
+}
+
+.house_title {
+    color: #4F4545;
+    border-bottom: 1px solid grey;
+    
+}
+
+.service_title {
+    color: #888585;
+    padding-top: 30px;
+}
+
+.classify_box {
+    margin-top: -115px;
+    margin-left: 120px;
+    font-size: 15px;
+}
